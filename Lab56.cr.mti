@@ -1,0 +1,69 @@
+D:/HDL/LAB56/Mux2to1_32bit.v {1 {vlog -work work D:/HDL/LAB56/Mux2to1_32bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1_32bit
+
+Top level modules:
+	Mux2to1_32bit
+
+} {} {}} D:/HDL/LAB56/Mux2to1_5bit.v {1 {vlog -work work D:/HDL/LAB56/Mux2to1_5bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1_5bit
+
+Top level modules:
+	Mux2to1_5bit
+
+} {} {}} D:/HDL/LAB56/Datapath.v {1 {vlog -work work D:/HDL/LAB56/Datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath
+-- Compiling module Datapath_tb
+
+Top level modules:
+	Datapath_tb
+
+} {} {}} D:/HDL/LAB56/DataMemory.v {1 {vlog -work work D:/HDL/LAB56/DataMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+-- Compiling module DataMemory_tb
+
+Top level modules:
+	DataMemory_tb
+
+} {} {}} D:/HDL/LAB56/SignExtend.v {1 {vlog -work work D:/HDL/LAB56/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} D:/HDL/LAB56/RegisterFile.v {1 {vlog -work work D:/HDL/LAB56/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+-- Compiling module RegisterFile_tb
+
+Top level modules:
+	RegisterFile_tb
+
+} {} {}} D:/HDL/LAB56/MIPS.v {1 {vlog -work work D:/HDL/LAB56/MIPS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS
+-- Compiling module MIPS_tb
+
+Top level modules:
+	MIPS_tb
+
+} {} {}} D:/HDL/LAB56/ControlUnit.v {1 {vlog -work work D:/HDL/LAB56/ControlUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ControlUnit
+-- Compiling module ControlUnit_tb
+
+Top level modules:
+	ControlUnit_tb
+
+} {} {}} D:/HDL/LAB56/ALU.v {1 {vlog -work work D:/HDL/LAB56/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
